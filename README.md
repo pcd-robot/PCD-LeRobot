@@ -169,7 +169,7 @@ We designed a "place bowl on plate" task using an AGILEX PIPER robotic arm, coll
 
 | Diffusion Policy | +PCD (Ours) |
 | -----------------|-------------|
-| ![diffusion](examples\baseline.gif) | ![pcd](examples\ours.gif) |
+| ![Diffusion](examples\baseline.gif) | ![PCD](examples\ours.gif) |
 
 ## Acknowledgements
 
