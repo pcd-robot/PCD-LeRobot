@@ -1,6 +1,6 @@
 # PCD-LeRobot
 
-> Note: This is the LeRobot real-world version of our work. If you are looking for the SIMPLER version, please check out [PCD](https://github.com/pcd-robot/PCD).
+> Note: This is the LeRobot evaluation of our work. For SIMPLER experiments, please visit [PCD](https://github.com/pcd-robot/PCD).
 
 Official implementation of the paper "Policy Contrastive Decoding for Robotic Foundation Models".
 
@@ -169,7 +169,7 @@ We designed a "place bowl on plate" task using an AGILEX PIPER robotic arm, coll
 
 | Diffusion Policy | +PCD (Ours) |
 | -----------------|-------------|
-| ![Diffusion](examples/baseline.gif) | ![PCD](examples/ours.gif) |
+| ![Diffusion](examples/place_the_bowl_on_the_plate_failed_20251125_164540.gif) | ![PCD](examples/place_the_bowl_on_the_plate_success_20251125_200112.gif) |
 
 ## Acknowledgements
 
